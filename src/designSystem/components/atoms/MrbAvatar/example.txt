@@ -1,0 +1,4 @@
+<MrbAvatar src={url}>
+Example
+</MrbAvatar>
+<MrbAvatar>Ulric Musset</MrbAvatar>

@@ -1,0 +1,21 @@
+<MrbList>
+    <MrbList.Item onClick={handleClick}>
+        <MrbRow gap={2} vertical="center" className="mrb-fill-x">
+        <MrbAvatar>Akainu</MrbAvatar>
+        <MrbCol xs="fill">
+            <MrbTypography>Akainu</MrbTypography>
+            <MrbTypography variant="secondary">Hot AF</MrbTypography>
+        </MrbCol>
+        </MrbRow>
+    </MrbList.Item>
+
+    <MrbList.Item onClick={handleClick}>
+        <MrbRow gap={2} vertical="center" className="mrb-fill-x">
+        <MrbAvatar>Aokiji</MrbAvatar>
+        <MrbCol xs="fill">
+            <MrbTypography>Aokiji</MrbTypography>
+            <MrbTypography variant="secondary">Ice Cold</MrbTypography>
+        </MrbCol>
+        </MrbRow>
+    </MrbList.Item>
+</MrbList>

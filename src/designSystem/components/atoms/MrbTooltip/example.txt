@@ -1,0 +1,15 @@
+<MrbTooltip placement="top" content="Top!">
+<MrbButton variant="primary">Top</MrbButton>
+</MrbTooltip>
+<br />
+<MrbTooltip placement="bottom" content="bottom!">
+<MrbButton variant="primary">Bottom</MrbButton>
+</MrbTooltip>
+<br />
+<MrbTooltip placement="left" content="Left!">
+<MrbButton variant="primary">Left</MrbButton>
+</MrbTooltip>
+<br />
+<MrbTooltip placement="right" content="Right!" >
+<MrbButton variant="primary">Right</MrbButton>
+</MrbTooltip>

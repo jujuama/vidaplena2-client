@@ -1,0 +1,12 @@
+<MrbButton type="submit">Submit</MrbButton>
+<MrbButton onClick={handleClick}>Default</MrbButton>
+<MrbButton type="submit" variant="primary">Primary</MrbButton>
+<MrbButton type="submit" variant="secondary">Secondary</MrbButton>
+<MrbButton onClick={handleClick} variant="danger">Danger</MrbButton>
+<MrbButton onClick={handleClick} variant="warning">Warning</MrbButton>
+<MrbButton onClick={handleClick} variant="success">Success</MrbButton>
+<MrbButton onClick={handleClick} isLoading>Loading</MrbButton>
+<MrbButton type="submit" size="small">Small</MrbButton>
+<MrbButton type="submit" size="medium">Medium</MrbButton>
+<MrbButton onClick={handleClick} size="large">Large</MrbButton>
+<MrbButton type="submit" fullWidth>Full Width</MrbButton>

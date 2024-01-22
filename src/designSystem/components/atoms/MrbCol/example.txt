@@ -1,0 +1,16 @@
+<MrbCard size="full-width">
+<MrbRow>
+    <MrbCol gap={1} xs="4">
+    <MrbTypography variant="primary">Item 1</MrbTypography>
+    <MrbTypography variant="secondary">Details 1</MrbTypography>
+    </MrbCol>
+    <MrbCol gap={1} xs="4">
+    <MrbTypography variant="primary">Item 1</MrbTypography>
+    <MrbTypography variant="secondary">Details 1</MrbTypography>
+    </MrbCol>
+    <MrbCol gap={1} xs="4">
+    <MrbTypography variant="primary">Item 1</MrbTypography>
+    <MrbTypography variant="secondary">Details 1</MrbTypography>
+    </MrbCol>
+</MrbRow>
+</MrbCard>

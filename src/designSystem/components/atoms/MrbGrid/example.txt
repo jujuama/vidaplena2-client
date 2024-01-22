@@ -1,0 +1,1 @@
+<MrbImage src={url} size="small" />

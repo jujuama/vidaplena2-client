@@ -1,0 +1,9 @@
+<MrbTypography variant="h1">Variant H1</MrbTypography>
+<MrbTypography variant="h2">Variant H2</MrbTypography>
+<MrbTypography variant="h3">Variant H3</MrbTypography>
+<MrbTypography variant="primary">Variant Primary</MrbTypography>
+<MrbTypography variant="secondary">Variant Secondary</MrbTypography>
+<MrbTypography variant="caption">Variant Caption</MrbTypography>
+<MrbTypography horizontal="left">Variant Caption</MrbTypography>
+<MrbTypography horizontal="center">Variant Caption</MrbTypography>
+<MrbTypography horizontal="right">Variant Caption</MrbTypography>

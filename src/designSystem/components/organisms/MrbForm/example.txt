@@ -1,0 +1,84 @@
+
+const defaultValues = {'firstName':'Ulric'}
+
+const handleSubmit = async (values:any) => {
+  ...
+}
+
+<MrbForm
+      defaultValues={defaultValues}
+      onSubmit={handleSubmit}
+      inputs={[
+  {
+    key: 'firstname',
+    type: 'text',
+    label: 'First name',
+  },
+  {
+    key: 'age',
+    type: 'number',
+    label: 'Age',
+  },
+  {
+    key: 'bio',
+    type: 'textarea',
+    label: 'Bio',
+  },
+]}
+      >
+        <MrbButton type="submit">Submit</MrbButton>
+      </MrbForm>
+
+<MrbForm
+      onSubmit={handleSubmit}
+      inputs={[
+  {
+    key: 'dateOfBirth',
+    type: 'date',
+    label: 'Date of Birth',
+  },
+  {
+    key: 'color',
+    type: 'select',
+    label: 'Color',
+    options: [
+      {
+        label: 'Red',
+        value: 'red',
+      },
+      {
+        label: 'Blue',
+        value: 'blue',
+      },
+    ],
+  },
+  {
+    key: 'animal',
+    type: 'radio',
+    label: 'Your favourite animal',
+    options: [
+      {
+        label: 'Cat',
+        value: 'cat',
+      },
+      {
+        label: 'Dog',
+        value: 'dog',
+      },
+    ],
+  },
+  {
+    key: 'addresses',
+    type: 'list',
+    label: 'Addresses',
+    inputs: [
+      {
+        key: 'street',
+        label: 'Street',
+      },
+    ],
+  },
+]}
+      >
+        <MrbButton type="submit">Submit</MrbButton>
+      </MrbForm>

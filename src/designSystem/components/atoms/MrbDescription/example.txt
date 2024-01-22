@@ -1,0 +1,4 @@
+<MrbDescription>
+    <MrbDescription.Label>Age</MrbDescription.Label>
+    <MrbDescription.Value>25yo</MrbDescription.Value>
+</MrbDescription>

@@ -1,0 +1,16 @@
+.mrb-fill-x {
+  width: 100%;
+}
+.mrb-fill-y {
+  height: 100%;
+}
+.mrb-fill-xy {
+  width: 100%;
+  height: 100%;
+}
+.mrb-fill-flex {
+  flex: 1;
+}
+body * {
+  box-sizing: border-box;
+}

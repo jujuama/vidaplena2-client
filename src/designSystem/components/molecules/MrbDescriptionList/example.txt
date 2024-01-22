@@ -1,0 +1,24 @@
+<MrbDescriptionList>
+  <MrbDescription>
+    <MrbDescription.Label>Department</MrbDescription.Label>
+    <MrbDescription.Value>
+      Research and Development
+    </MrbDescription.Value>
+  </MrbDescription>
+  <MrbDescription>
+    <MrbDescription.Label>Project</MrbDescription.Label>
+    <MrbDescription.Value>Next-Gen AI</MrbDescription.Value>
+  </MrbDescription>
+  <MrbDescription>
+    <MrbDescription.Label>Email</MrbDescription.Label>
+    <MrbDescription.Value>
+      <MrbLink to="mailto:johndoe@acmecorp.com">
+        johndoe@acmecorp.com
+      </MrbLink>
+    </MrbDescription.Value>
+  </MrbDescription>
+  <MrbDescription>
+    <MrbDescription.Label>Phone</MrbDescription.Label>
+    <MrbDescription.Value>+1234567890</MrbDescription.Value>
+  </MrbDescription>
+</MrbDescriptionList>

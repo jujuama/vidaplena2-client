@@ -1,0 +1,18 @@
+<MrbList>
+  <MrbList.Item>
+    <MrbComment
+      name="Ulric Musset"
+      pictureUrl="https://"
+      date="21/05/2019"
+      content="Hello world!"
+    />
+  </MrbList.Item>
+  <MrbList.Item>
+    <MrbComment
+      name="John Doe"
+      pictureUrl="https://"
+      date="21/05/2023"
+      content="Great comment!"
+    />
+  </MrbList.Item>
+</MrbList>

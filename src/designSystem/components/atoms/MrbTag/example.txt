@@ -1,0 +1,6 @@
+
+<MrbTag>Default</MrbTag>
+<MrbTag variant="primary">Primary</MrbTag>
+<MrbTag variant="success">Success</MrbTag>
+<MrbTag variant="warning">Warning</MrbTag>
+<MrbTag variant="danger">Danger</MrbTag>

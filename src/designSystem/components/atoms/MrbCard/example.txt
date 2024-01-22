@@ -1,0 +1,15 @@
+<MrbCard
+  size="medium"
+  className="m-1"
+  onClick={() => handleClick()}
+>
+  <MrbCard.Header>Small</MrbCard.Header>
+  <MrbCard.Body>Body</MrbCard.Body>
+  <MrbCard.Footer>Footer</MrbCard.Footer>
+</MrbCard>
+
+<MrbCard size="large" className="m-1">
+  <MrbCard.Header>Header</MrbCard.Header>
+  <MrbCard.Body>Body</MrbCard.Body>
+  <MrbCard.Footer>Footer</MrbCard.Footer>
+</MrbCard>

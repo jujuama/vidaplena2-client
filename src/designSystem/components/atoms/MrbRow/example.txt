@@ -1,0 +1,20 @@
+<MrbRow>
+    <MrbCol xs="1">
+        <MrbTypography variant="primary">Price</MrbTypography>
+    </MrbCol>
+    <MrbCol horizontal="right" xs="11">
+        <MrbTypography variant="secondary">$90</MrbTypography>
+    </MrbCol>
+</MrbRow>
+<MrbRow>
+    <MrbCol xs="1">
+        <MrbTypography variant="primary">Features</MrbTypography>
+    </MrbCol>
+    <MrbCol horizontal="right" xs="11">
+        <MrbTypography variant="secondary">Feature 1</MrbTypography>
+        <br />
+        <MrbTypography variant="secondary">Feature 2</MrbTypography>
+        <br />
+        <MrbTypography variant="secondary">Feature 3</MrbTypography>
+    </MrbCol>
+</MrbRow>

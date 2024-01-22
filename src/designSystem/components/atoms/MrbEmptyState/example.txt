@@ -1,0 +1,9 @@
+<MrbEmptyState className="m-1">
+There is no items to display.
+</MrbEmptyState>
+<MrbEmptyState className="m-1">
+You don't have any projects yet!
+<MrbButton variant="primary" size="small" onClick={() => handleClickNew()}>
+    <MrbIcon name="add-line" /> New project
+</MrbButton>
+</MrbEmptyState>

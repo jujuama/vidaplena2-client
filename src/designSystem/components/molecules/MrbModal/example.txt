@@ -1,0 +1,20 @@
+  const [openModal, setOpenModal] = React.useState(false)
+
+  const handleCloseModal = () => {
+    setOpenModal(false)
+  }
+
+  const handleOpenModal = () => {
+    setOpenModal(true)
+  }
+
+  <MrbModal
+  isOpen={openModal}
+  onClose={handleCloseModal}
+  header="Title of the modal"
+>
+  Content of the modal
+</MrbModal>
+<MrbButton onClick={handleOpenModal}>
+    Open modal
+</MrbButton>

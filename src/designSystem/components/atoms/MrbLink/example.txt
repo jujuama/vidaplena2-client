@@ -1,0 +1,4 @@
+<MrbLink to="/path" variant="primary" >Here is a link</MrbLink>
+<MrbLink to="/path/path" variant="primary" >
+    Here is another one
+</MrbLink>

@@ -1,0 +1,1 @@
+<MrbLoader size="small" />
