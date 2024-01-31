@@ -6,7 +6,7 @@ Run the following commands
 
 ```bash
 # Define environment variables
-echo "PORT=8099" > .env
+echo "PORT=9099" > .env
 echo "NEXT_PUBLIC_API_BASE_URL=http://localhost:3099" >> .env
 
 # Install dependencies and initialise the database
